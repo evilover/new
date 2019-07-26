@@ -1,0 +1,15 @@
+[{
+    "goods_id":1,
+    "goods_src":[
+        "https://resource.smartisan.com/resource/1fec8ea78b00bb85107b1d920a9a885e.jpg?x-oss-process=image/resize,w_1523/indexcrop,y_1440,i_0/format,webp/quality,Q_100",
+        "https://resource.smartisan.com/resource/1fec8ea78b00bb85107b1d920a9a885e.jpg?x-oss-process=image/resize,w_1523/indexcrop,y_1440,i_1/format,webp/quality,Q_100",
+        "https://resource.smartisan.com/resource/1fec8ea78b00bb85107b1d920a9a885e.jpg?x-oss-process=image/resize,w_1523/indexcrop,y_1440,i_2/format,webp/quality,Q_100",
+        "https://resource.smartisan.com/resource/1fec8ea78b00bb85107b1d920a9a885e.jpg?x-oss-process=image/resize,w_1523/indexcrop,y_1440,i_3/format,webp/quality,Q_100",
+        "https://resource.smartisan.com/resource/1fec8ea78b00bb85107b1d920a9a885e.jpg?x-oss-process=image/resize,w_1523/indexcrop,y_1440,i_4/format,webp/quality,Q_100",
+        "https://resource.smartisan.com/resource/1fec8ea78b00bb85107b1d920a9a885e.jpg?x-oss-process=image/resize,w_1523/indexcrop,y_1440,i_5/format,webp/quality,Q_100",
+        "https://resource.smartisan.com/resource/1fec8ea78b00bb85107b1d920a9a885e.jpg?x-oss-process=image/resize,w_1523/indexcrop,y_1440,i_6/format,webp/quality,Q_100",
+        "https://resource.smartisan.com/resource/1fec8ea78b00bb85107b1d920a9a885e.jpg?x-oss-process=image/resize,w_1523/indexcrop,y_1440,i_7/format,webp/quality,Q_100",
+        "https://resource.smartisan.com/resource/1fec8ea78b00bb85107b1d920a9a885e.jpg?x-oss-process=image/resize,w_1523/indexcrop,y_1440,i_8/format,webp/quality,Q_100"
+    ]
+
+}]

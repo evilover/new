@@ -1,0 +1,304 @@
+.main3{
+background:#ededed;
+padding:32px 0;
+
+}
+.main3 .contain{
+    width:1280px;
+    margin:0 auto;
+    border-radius: 30px;
+
+    
+}
+.main3 .contain h2{
+    height:65px;
+    background:#fafafa;
+    line-height:65px;
+    padding-left:30px;
+    border-radius: 30px 30px 0 0/30px 30px 0 0;
+
+}
+.main3 .contain .shop_tit{
+    width:1280px;
+    height:40px;
+    line-height:40px;
+    position: relative;
+   border:1px solid #ccc;
+}
+.main3 .contain .shop_tit div{
+    float:left;
+    color:#8791a2;
+    position: absolute;
+}
+.main3 .contain .shop_tit div:nth-child(1){
+    left:32px;
+
+}
+.main3 .contain .shop_tit div:nth-child(2){
+    right:542px;
+    
+}
+.main3 .contain .shop_tit div:nth-child(3){
+    right:358px;
+    
+}
+.main3 .contain .shop_tit div:nth-child(4){
+    right:220px;
+    
+}
+.main3 .contain .shop_tit div:nth-child(5){
+    right:85px;  
+}
+.main3 .contain .shop_list li{
+    width:1280px;
+    height:150px;
+    background:#fff;
+    border-bottom:1px solid #ccc;
+}
+.main3 .contain .shop_list li div{
+    float:left;
+}
+.main3 .contain .shop_list li .first{
+    width:80px;
+    height:150px;
+    position: relative;
+}
+.main3 .contain .shop_list li .first .select{
+    display:inline-block;
+    width:25px;
+    height:25px;
+    border-radius: 50%;
+    position: absolute;
+    top:45%;
+    left:45%;
+
+}
+.select:checked {
+	background:#1673ff
+}
+.select {
+	width:25px;
+	height:25px;
+	background-color:#ffffff;
+	border:solid 1px #dddddd;
+	-webkit-border-radius:50%;
+	font-size:0.8rem;
+	margin:0;
+	padding:0;
+	position:relative;
+	display:inline-block;
+	vertical-align:top;
+	cursor:default;
+	-webkit-appearance:none;
+	-webkit-user-select:none;
+	user-select:none;
+	-webkit-transition:background-color ease 0.1s;
+	transition:background-color ease 0.1s;
+}
+.select:checked::after {
+	content:'';
+	top:5px;
+	left:5px;
+	position:absolute;
+	background:transparent;
+	border:#fff solid 2px;
+	border-top:none;
+	border-right:none;
+	height:6px;
+	width:10px;
+	-moz-transform:rotate(-45deg);
+	-ms-transform:rotate(-45deg);
+	-webkit-transform:rotate(-45deg);
+	transform:rotate(-45deg);
+}
+.main3 .contain .shop_list li .shop_img{
+    width:72px;
+    height:150px;  
+   
+}
+.main3 .contain .shop_list li .shop_img img{
+    line-height:150px;
+    width:70px;
+    height:73px;
+    margin-top:58%;
+    border:1px solid #ccc;
+}
+.main3 .contain .shop_list li .shop_name{
+    height:150px;
+    line-height:150px;
+    width:520px;
+    margin-left:20px;
+    color:#343535;
+}
+.main3 .contain .shop_list li .shop_price{
+    height:150px;
+    line-height:150px;
+    font-family: "YouYuan";
+    width:150px;
+
+}
+.main3 .contain .shop_list li .shop_num{
+    margin-left:20px;
+    width:150px;
+}
+.main3 .contain .shop_list li .shop_num input{
+    display:block;
+    float:left;
+    width:25px;
+    height:25px;
+    border-radius: 50%;
+    border:1px solid #ccc;
+    text-align:center;
+    margin-top:60px;
+    margin-left:5px;
+    margin-right:5px;
+}
+.main3 .contain .shop_list li .shop_num span{
+    display:block;
+    float:left;
+    width:25px;
+    height:25px;
+    border-radius: 50%;
+    border:1px solid #ccc;
+    text-align:center;
+    margin-top:60px;
+    background:#fff;
+    line-height:25px;
+}
+.main3 .contain .shop_list li .shop_sum{
+    width:150px;
+}
+.main3 .contain .shop_list li .shop_sum p{ 
+    height:150px;
+    line-height:150px;
+    font-family: "YouYuan";
+}
+.main3 .contain .shop_list li .operate button{
+    display:block;
+    float:left;
+    width:25px;
+    height:25px;
+    border-radius: 50%;
+    border:1px solid #ccc;
+    text-align:center;
+    margin-top:60px;
+    background:#fff;
+}
+.main3 .contain .shop_list li .operate button:hover{
+    color:#1673ff;
+}
+.main3 .contain #account{
+    height:86px;
+    width:1280px;
+    background:#f9f9f9;
+}
+.main3 .contain #account .first .allselect{
+    display:inline-block;
+    width:25px;
+    height:25px;
+    border-radius: 50%;
+    position: absolute;
+
+}
+.allselect:checked {
+	background:#1673ff
+}
+.allselect {
+	width:25px;
+	height:25px;
+	background-color:#ffffff;
+	border:solid 1px #dddddd;
+	-webkit-border-radius:50%;
+	font-size:0.8rem;
+	margin:0;
+	padding:0;
+	position:relative;
+	display:inline-block;
+	vertical-align:top;
+	cursor:default;
+	-webkit-appearance:none;
+	-webkit-user-select:none;
+	user-select:none;
+	-webkit-transition:background-color ease 0.1s;
+	transition:background-color ease 0.1s;
+}
+.allselect:checked::after {
+	content:'';
+	top:5px;
+	left:5px;
+	position:absolute;
+	background:transparent;
+	border:#fff solid 2px;
+	border-top:none;
+	border-right:none;
+	height:6px;
+	width:10px;
+	-moz-transform:rotate(-45deg);
+	-ms-transform:rotate(-45deg);
+	-webkit-transform:rotate(-45deg);
+	transform:rotate(-45deg);
+}
+.main3 .contain #account .first{
+    height:86px;
+    padding-top:35px;
+    padding-left:35px;
+}
+.main3 .contain #account div{
+    float:left;
+}
+.main3 .contain #account  ul{
+    float:left;
+}
+.main3 .contain #account h3{
+    width:30px;
+    height:86px;
+    line-height:93px;
+    margin-left:30px;
+    float:left;
+}
+.main3 .contain #account p{
+    float:left;
+    height:86px;
+    line-height:93px;
+    margin-left:10px;
+    color:#ccc;
+
+}
+.main3 .contain #account ul{
+    float:right;
+    margin-right:40px;
+}
+.main3 .contain #account ul li{
+    float:left;
+    display:flex;
+    flex-direction: column;
+}
+.main3 .contain #account ul li h3{
+    width:140px;
+    height:30px;
+}
+.main3 .contain #account ul li  p{
+height:30px;
+padding-left:25px;
+}
+.main3 .contain #account ul li  p b{
+    color:#d44349;
+    padding:0 5px;
+}
+
+.main3 .contain #account ul li h3 span{
+    color:#d44349;
+    padding:0 5px;
+}
+.main3 .contain #account ul li button{
+    width:136px;
+    height:50px;
+    display:block;
+    border-radius:20px;
+    background:#6a8fe9;
+    color:#fff;
+    margin-top:20px;
+    outline: none;
+    border:none;
+    cursor:pointer;
+}

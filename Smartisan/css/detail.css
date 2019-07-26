@@ -1,0 +1,355 @@
+body {
+    position: relative;
+}
+
+.main1 {
+    margin: 90px 0 0 0px;
+    background: #ededed;
+    padding-top: 20px;
+    padding-bottom:20px;
+}
+
+.main1 .container1 {
+    width: 1160px;
+    height: 624px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 60px;
+    position: relative;
+}
+.main1 .information{
+    width:1280px;
+    margin:0 auto;
+    margin-top:25px;
+    border-radius: 20px;
+    border:1px solid #ccc;
+}
+.main1 .information h2{
+    height:60px;
+    background:#f9f9f9;
+    line-height:60px;
+    padding-left:20px;
+    border-radius: 20px;
+}
+.main1 .information ul li>img{
+    width:1280px;
+    display:block;
+}
+.main1 .container1 .show {
+    float: left;
+}
+
+.main1 .container1 .show {
+    width: 565px;
+    height: 624px;
+    display: flex;
+}
+
+.main1 .container1 .show .img {
+    position: relative;
+    width: 474px;
+    height: 474px;
+    float: left;
+    margin: auto 0;
+    border: 1px solid #000;
+}
+
+.main1 .container1 .show .img .filter {
+    width: 237px;
+    height: 237px;
+    background: rgba(0, 0, 0, .09);
+    position: absolute;
+    display: none;
+}
+
+.main1 .container1 .show ul {
+    width: 100px;
+    float: left;
+    margin: auto 0;
+}
+
+.main1 .container1 .show ul li {
+    width: 80px;
+    height: 80px;
+    border-radius: 20px;
+    border: 1px solid #f5f5f5;
+    display: table-cell;
+    vertical-align: center;
+    float: left;
+    margin: 10px 0;
+}
+
+.main1 .container1 .detail {
+    width: 583px;
+    float: left;
+    height: 624px;
+    padding-left: 10px;
+
+}
+
+.main1 .container1 .detail li h2 {
+    height: 40px;
+    line-height: 40px;
+}
+
+.main1 .container1 .detail li {
+    height: 94px;
+    border-bottom: 1px solid #ccc;
+}
+.main1 .container1 .detail li:last-child{
+    border-bottom:0;
+    
+}
+.main1 .container1 .detail li:nth-child(1){
+    position: relative;
+}
+.main1 .container1 .detail li:nth-child(1) p {
+    height: 35px;
+    color: #9f9f9f;
+}
+.main1 .container1 .detail li:nth-child(1) span{
+display:block;
+position: absolute;
+right:30px;
+top:20px;
+color:#d44d44;
+font-size:25px;
+
+}
+.main1 .container1 .detail li:nth-child(1) del{
+    display:block;
+position: absolute;
+right:30px;
+top:55px;
+color:#ccc;
+font-size:25px;
+}
+.main1 .container1 .detail li h4 {
+    height: 94px;
+    color: #666666;
+    line-height: 94px;
+    float: left;
+    margin-right: 25px;
+}
+
+.main1 .container1 .detail li:nth-child(2) p {
+    height: 94px;
+    line-height: 94px;
+    float: left;
+}
+
+.main1 .container1 .detail li:nth-child(2) p span {
+    display: block;
+    float: left;
+    width: 70px;
+    height: 18px;
+    line-height: 18px;
+    margin-right: 10px;
+    background: #fffbe5;
+    color: #e6b237;
+    text-align: center;
+    margin-top: 37px;
+    border-radius: 5px;
+    border: 1px solid #ffe57a;
+}
+
+.main1 .container1 .detail li:nth-child(3) a>span {
+    display: block;
+    float: left;
+    width: 25px;
+    height: 25px;
+    background: #c92929;
+    border-radius: 50%;
+    border: 5px solid #fff;
+}
+.main1 .container1 .detail li:nth-child(3) a:nth-child(1)>span {
+    background: #c92929;
+}
+
+.main1 .container1 .detail li:nth-child(3) a:nth-child(2)>span{
+    background:#5d5d5d;
+}
+.main1 .container1 .detail li:nth-child(3) a:nth-child(3)>span{
+    background:#f97640;
+}
+.main1 .container1 .detail li:nth-child(3) a {
+    width: 35px;
+    height: 35px;
+    display: block;
+    border-radius: 50%;
+    float: left;
+    border: 3px solid #ccc;
+    margin: 26px 5px;
+}
+
+.main1 .container1 .detail li:nth-child(4) i {
+    display: block;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid #6a8fe6;
+    text-align: center;
+    float: left;
+    line-height: 40px;
+    font-style: normal;
+    margin-top: 25px;
+}
+
+.main1 .container1 .detail li:nth-child(5) div>input {
+    display: block;
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    border-radius: 50%;
+    border: 1px solid #d8d8d8;
+    text-align: center;
+    float: left;
+    margin-left: 10px;
+    border: none;
+}
+
+.main1 .container1 .detail li:nth-child(5) div {
+    margin-top: 30px;
+    width: 200px;
+    height: 36px;
+    float: left;
+
+}
+
+.main1 .container1 .detail li:nth-child(5) span {
+    box-shadow: 5px 2px 15px rgba(0, 0, 0, .09);
+    display: block;
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    border-radius: 50%;
+    border: 1px solid #d8d8d8;
+    text-align: center;
+    float: left;
+    margin-left: 10px;
+}
+
+.main1 .container1 .detail li:nth-child(6) p {
+    height: 25px;
+    line-height: 25px;
+    color: #999c9f;
+    width: 417px;
+    float: left;
+}
+
+.main1 .container1 .detail li:nth-child(6)>p:nth-child(2) {
+    margin-top: 35px;
+}
+
+.main1 .container1 .bigImg {
+    width: 474px;
+    float: left;
+    height: 474px;
+    position: absolute;
+    right: 130px;
+    top: 135px;
+    overflow: hidden;
+    display: none;
+}
+
+.main1 .container1 .bigImg>img {
+    width: 948px;
+    height: 948px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.shop {
+    position: fixed;
+    bottom: 0;
+    height: 65px;
+    background: #fafafa;
+    width: 100%;
+}
+
+.shop .shopping {
+    width: 1280px;
+    height: 65px;
+    margin: auto;
+}
+
+.shop .shopping * {
+    float: left;
+}
+
+.shop .shopping p {
+    color: #c0c0d0;
+    line-height: 65px;
+}
+
+.shop .shopping div h3 {
+    margin-top: 15px;
+    margin-left: 20px;
+    color: #76687b;
+}
+.shop .shopping #shop_num{
+    display: block;
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    border-radius: 50%;
+    border: 1px solid #d8d8d8;
+    text-align: center;
+    float: right;
+    margin-left: 10px;
+    border: none;
+    background:#fafafa;
+    margin-top:11px;
+}
+.shop .shopping div ul {
+    clear: both;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.shop .shopping div ul li {
+    margin-right: 5px;
+    color: #aaa3a9;
+}
+
+.shop .shopping .go span,
+button {
+    display: block;
+    height: 40px;
+}
+
+.shop .shopping .go span {
+    line-height: 65px;
+    color: #d13e33;
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+.shop .shopping .go del {
+    display: block;
+    clear: both;
+    color: #ccc;
+}
+
+.shop .shopping .go {
+    float: right;
+}
+
+.shop .shopping .go button {
+    width: 125px;
+    height: 40px;
+    border-radius: 10px;
+    outline: none;
+    background: #f9f9f9;
+    border: 1px solid #e5e5e5;
+    margin-top: 12px;
+    margin-right: 10px;
+    color: #615c5e;
+    cursor:pointer;
+}
+
+.shop .shopping .go button:nth-child(3) {
+    background: #628ce0;
+    color: #fcf3f4;
+}

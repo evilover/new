@@ -1,0 +1,116 @@
+[{
+  "goods_id":1,
+  "goods_name":"Smartisan 快充移动电源10000",
+  "goods_price":109.00,
+  "goods_volume":666,
+  "goods_title":"盛夏旅途，毫无限时特惠",
+  "goods_img":[
+      "https://resource.smartisan.com/resource/f319b26eb69e8ba351423abfad347eae.jpg?x-oss-process=image/resize,w_184/format,webp",
+      "https://resource.smartisan.com/resource/b7105b0d819e610a9c38d7ca2a813e58.jpg?x-oss-process=image/resize,w_184/format,webp"
+  ],
+  "goods_comprehensive":1
+},
+{
+    "goods_id":2,
+    "goods_name":"坚果砖石蓝牙小音箱",
+    "goods_price":149.00,
+    "goods_volume":777,
+    "goods_title":"盛夏旅途，毫无限时特惠",
+    "goods_img":[
+        "https://resource.smartisan.com/resource/6e96ccea3bd56bdd2243eb20330cec30.jpg?x-oss-process=image/resize,w_184/format,webp",
+        "https://resource.smartisan.com/resource/c44f0ab4da5591fc3d0f82b7ac0f4f65.jpg?x-oss-process=image/resize,w_184/format,webp"
+    ],
+    "goods_comprehensive":2
+},
+{
+    "goods_id":3,
+    "goods_name":"坚果“电池型电池”移动电源",
+    "goods_price":68.00,
+    "goods_volume":886,
+    "goods_title":"盛夏旅途，毫无限时特惠",
+    "goods_img":[
+        "https://resource.smartisan.com/resource/33954b3f6a2f1614c5482ef130af9cc8.jpg?x-oss-process=image/resize,w_184/format,webp",
+        "https://resource.smartisan.com/resource/70d345eb737b8118823e50cfa08658c5.jpg?x-oss-process=image/resize,w_184/format,webp",
+        "https://resource.smartisan.com/resource/f5a36dfc37d52a643683f4a21247f3ff.jpg?x-oss-process=image/resize,w_184/format,webp",
+        "https://resource.smartisan.com/resource/8d8f9a1e239f8fcd2308776f49ba09f6.jpg?x-oss-process=image/resize,w_184/format,webp"
+    ],
+    "goods_comprehensive":3
+},{
+    "goods_id":4,
+    "goods_name":"Smartisan 双口 & 快充车载充。。。",
+    "goods_price":165.00,
+    "goods_volume":402,
+    "goods_title":"盛夏旅途，毫无限时特惠",
+    "goods_img":[
+        "https://resource.smartisan.com/resource/d4480234a2f24b0ff5acd98288fd902d.jpg?x-oss-process=image/resize,w_184/format,webp"
+    ],
+    "goods_comprehensive":4
+},
+{
+    "goods_id":5,
+    "goods_name":"坚果QuickCharge+快速充。。。",
+    "goods_price":58.00,
+    "goods_volume":322,
+    "goods_title":"盛夏旅途，毫无限时特惠",
+    "goods_img":[
+        "https://resource.smartisan.com/resource/a668d1a5f41b04ece82d76ded1e94d3a.jpg?x-oss-process=image/resize,w_184/format,webp"
+    ],
+    "goods_comprehensive":5
+},
+{
+    "goods_id":6,
+    "goods_name":"Smartisan原装快充充电器 18W",
+    "goods_price":145.00,
+    "goods_volume":999,
+    "goods_title":"盛夏旅途，毫无限时特惠",
+    "goods_img":[
+        "https://resource.smartisan.com/resource/dc53bd870ee64d2053ecc51750ece43a.jpg?x-oss-process=image/resize,w_184/format,webp"
+    ],
+    "goods_comprehensive":6
+},
+
+{
+    "goods_id":7,
+    "goods_name":"坚果Type-C To Type-C 数据线",
+    "goods_price":45.00,
+    "goods_volume":999,
+    "goods_img":[
+        "https://resource.smartisan.com/resource/8635cb91f2cdbbc5576e069c52b99412.jpg?x-oss-process=image/resize,w_184/format,webp"
+    ],
+    "goods_title":"TPE环保材质，PTC过温保护",
+    "goods_comprehensive":7
+},
+{
+    "goods_id":8,
+    "goods_name":"Smartisan半入耳式耳机",
+    "goods_price":39.00,
+    "goods_volume":988,
+    "goods_img":[
+        "https://resource.smartisan.com/resource/30ac0a1ab02999667f1362c501447e58.jpg?x-oss-process=image/resize,w_184/format,webp"
+    ],
+    "goods_title":"盛夏旅途，毫无限时特惠",
+    "goods_comprehensive":8
+},
+{
+    "goods_id":9,
+    "goods_name":"坚果彩虹数据线",
+    "goods_price":36.00,
+    "goods_volume":996,
+    "goods_img":[
+        "https://resource.smartisan.com/resource/82aab62886740f165a3631ce6cffe895.jpg?x-oss-process=image/resize,w_184/format,webp"
+    ],
+    "goods_title":"盛夏旅途，毫无限时特惠",
+    "goods_comprehensive":9
+},
+{
+    "goods_id":10,
+    "goods_name":"Smartisan耳机转接头",
+    "goods_price":19.00,
+    "goods_volume":852,
+    "goods_img":[
+        "https://resource.smartisan.com/resource/45312fb748d54aa2e58a8f4d637e9e65.jpg?x-oss-process=image/resize,w_184/format,webp"
+    ],
+    "goods_title":"即插即用，全面兼容",
+    "goods_comprehensive":10
+}
+]
